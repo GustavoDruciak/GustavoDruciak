@@ -1,6 +1,6 @@
 # GustavoDruciak
 
-![banner](Banner.html)
+![banner](Banner.jpg)
 
 ## 👨‍💻 Sobre Mim
 
