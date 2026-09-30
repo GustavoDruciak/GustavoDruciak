@@ -25,14 +25,6 @@ Olá, me chamo Gustavo Druciak.
 
 ### 🎓 Projetos Feitos na Faculdade
 
-[![Banco de Dados - DDL](https://img.shields.io/badge/Projeto-Banco_de_Dados_DDL-Black?style=for-the-badge&logo=postgresql&color=black)]()
-
-[![Banco de Dados - DML](https://img.shields.io/badge/PROJETO-Banco_De_Dados_DML-black?style=for-the-badge&logo=Postgresql&label=Projeto)]()
-
-[![Gestão Escolar BD](https://img.shields.io/badge/PROJETO-Gestao_Escolar_BD-black?style=for-the-badge&logo=Postgresql&label=Projeto)])
-
-[![Java OOP - CRUD](https://img.shields.io/badge/Projeto-Java_CRUD-Black?style=for-the-badge&logo=postgresql&color=black)]()
-
 
 
 ## 🌎 Sociais
